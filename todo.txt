@@ -1264,3 +1264,5 @@ The stuff I deleted which was a ScalaTest specs comparison.
  * a ScalaTest <code>WordSpec</code>.
  * </p>
  *
+
+ Adding some info, here
